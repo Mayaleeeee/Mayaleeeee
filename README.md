@@ -3,8 +3,7 @@ My name is Maya and I'm a Product Designer
 
 [![@maya's Holopin board](https://holopin.io/api/user/board?user=maya)](https://holopin.io/@maya)
 
-
-![Frame 7](https://user-images.githubusercontent.com/105395613/194529913-ce7e043f-5861-4f23-bd38-fa9c50ba4b64.png)
+![Frame 7 (1)](https://user-images.githubusercontent.com/105395613/194530217-fee14a21-5436-4eed-a9d8-8b0d535368d3.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +14,4 @@ My name is Maya and I'm a Product Designer
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
