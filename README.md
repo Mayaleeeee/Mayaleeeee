@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Maya and I'm a Product Designer
 
-
+[![@maya's Holopin board](https://holopin.io/api/user/board?user=maya)](https://holopin.io/@maya)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
