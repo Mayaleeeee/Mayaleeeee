@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Maya and I'm a Product Designer
+My name is Aishat Muibudeen, mostly know as Maya
+A passonate product designer from Nigeria
 
 [![@maya's Holopin board](https://holopin.io/api/user/board?user=maya)](https://holopin.io/@maya)
 
-![Frame 7 (1)](https://user-images.githubusercontent.com/105395613/194530217-fee14a21-5436-4eed-a9d8-8b0d535368d3.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
