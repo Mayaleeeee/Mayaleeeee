@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://www.behance.net/muibudeenaisha)
 
-- 🌱 I’m currently learning **Game Design**
+- 🌱 I’m currently learning **User Research**
 
 - 👯 I’m looking to collaborate on [Any Design Projects](https://www.behance.net/muibudeenaisha)
 
