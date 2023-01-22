@@ -1,5 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Maya</h1>
-<h3 align="center">A passionate Product Designer from Nigeria</h3>
+<h3 align="center">A User Experience Researcher and Product Designer from Nigeria</h3>
 
 [![@maya's Holopin board](https://holopin.io/api/user/board?user=maya)](https://holopin.io/@maya)
 
