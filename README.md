@@ -26,7 +26,8 @@ I also co-founded **[OpenNest-Africa](https://github.com/Open-Nest-Africa)**, a 
 
 If you’re looking to collaborate, hire, or just say hello — I’m open to freelance or contract roles in:
 
-- Product & UX Design  
+- Product & UX Design
+- Graphics Design
 - UX Research  
 - Community Strategy & Management  
 - Technical Writing or Product Management  
